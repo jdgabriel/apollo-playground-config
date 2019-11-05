@@ -1,0 +1,12 @@
+{
+  "name": "playground-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jdgabriel/apollo-playground-config",
+  "author": "Gabriel Duarte <jds.gabrielduarte@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.9.7",
+    "graphql": "^14.5.8"
+  }
+}
